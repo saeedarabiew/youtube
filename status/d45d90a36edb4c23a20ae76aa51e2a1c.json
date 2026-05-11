@@ -4,9 +4,13 @@
   "sourceUrl": "https://www.youtube.com/watch?v=uhMY8lLOlqc",
   "quality": "720p",
   "targetPartMb": 95,
-  "state": "failed",
-  "progress": 0,
-  "message": "yt-dlp error: spawn yt-dlp ENOENT",
+  "state": "processing",
+  "progress": 0.11041211251467063,
+  "message": "Encoding 11.0%",
   "createdAt": "2026-05-11T11:19:33.680Z",
-  "updatedAt": "2026-05-11T11:30:17.971Z"
+  "updatedAt": "2026-05-11T12:20:19.405Z",
+  "downloadedFile": "downloads/d45d90a36edb4c23a20ae76aa51e2a1c/c5a46b2913534b35b6e8a692f3fc3af5.webm",
+  "duration": 179.781,
+  "segmentSeconds": 172,
+  "inputFile": "downloads/d45d90a36edb4c23a20ae76aa51e2a1c/input.webm"
 }
