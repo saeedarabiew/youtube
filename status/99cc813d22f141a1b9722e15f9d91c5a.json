@@ -1,0 +1,12 @@
+{
+  "id": "99cc813d22f141a1b9722e15f9d91c5a",
+  "title": "Premium relay test",
+  "sourceUrl": "https://www.youtube.com/watch?v=uhMY8lLOlqc",
+  "quality": "720p",
+  "targetPartMb": 95,
+  "state": "failed",
+  "progress": 0,
+  "message": "yt-dlp error: spawn yt-dlp ENOENT",
+  "createdAt": "2026-05-11T11:26:21.295Z",
+  "updatedAt": "2026-05-11T11:26:38.386Z"
+}
