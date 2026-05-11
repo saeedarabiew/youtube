@@ -1,0 +1,10 @@
+{
+  "id": "bb5209f15d3643c0a8bbc058ed01403c",
+  "title": "Premium relay test",
+  "sourceType": "file",
+  "sourceUrl": "https://www.youtube.com/watch?v=HweMw640ohQ",
+  "quality": "720p",
+  "targetPartMb": 95,
+  "createdAt": "2026-05-11T12:00:32.996Z",
+  "status": "queued"
+}
